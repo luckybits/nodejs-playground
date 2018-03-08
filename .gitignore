@@ -1,0 +1,11 @@
+
+.idea/NodeJsWebServer.iml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/sonarIssues.xml
+.idea/workspace.xml
+node_modules/
+package-lock.json
